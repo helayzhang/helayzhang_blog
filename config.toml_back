@@ -1,0 +1,4 @@
+baseURL = "https://helayzhang.github.io/"
+languageCode = "en-us"
+title = "KEN+ZO's Blog"
+theme = "beautifulhugo"
